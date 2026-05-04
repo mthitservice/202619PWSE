@@ -1,27 +1,9 @@
-# =====================================================================
-#  PWSE - Kurs-Repository .gitignore
-# ---------------------------------------------------------------------
-#  Konzept:
-#   * Trainer-Material (lab_description.md, demos/, solutions/) wird
-#     IMMER ignoriert.
-#   * Teilnehmer-Material (modules/, exercises/) ist STANDARDMAESSIG
-#     ignoriert und wird Modul fuer Modul ueber die Abschnitte unten
-#     freigeschaltet (Zeile durch Entfernen des "# " aktivieren).
-#   * Veroeffentlichung pro Modul:
-#       1. Im Abschnitt "Modul-Freigabe" gewuenschte Zeilen aktivieren
-#       2.   git add -A
-#       3.   git commit -m "release: MXX freigeben"
-#       4.   git push
-# =====================================================================
 
-# --- Default: alle Module/Uebungen zuerst verstecken ----------------------
+
+
 modules/*
 exercises/*
 
-# =========================================================================
-#  Modul-Freigabe (auskommentieren = veroeffentlichen)
-#  WICHTIG: pro Modul beide Bloecke gemeinsam aktivieren!
-# =========================================================================
 
 # --- M00  Grundlagen & Werkzeuge ---------------------------- [FREIGEGEBEN]
 !modules/M00_Grundlagen_und_Werkzeuge.md
@@ -93,10 +75,7 @@ exercises/*
 #!exercises/M13/
 #!exercises/M13/**
 
-# =========================================================================
-#  Trainer-only: NIEMALS veroeffentlichen
-#  (am Ende, damit kein "!" diese Eintraege ueberschreiben kann)
-# =========================================================================
+
 lab_description.md
 demos/
 **/demos/
