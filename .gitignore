@@ -26,9 +26,9 @@ exercises/*
 !exercises/M03/**
 
 # --- M04  Pipeline-Input ------------------------------------------ [TODO]
-#!modules/M04_Multiple_Objects_und_Pipeline.md
-#!exercises/M04/
-#!exercises/M04/**
+!modules/M04_Multiple_Objects_und_Pipeline.md
+!exercises/M04/
+!exercises/M04/**
 
 # --- M05  Komplexer Output ---------------------------------------- [TODO]
 #!modules/M05_Komplexer_Output.md
