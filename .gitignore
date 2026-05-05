@@ -11,9 +11,9 @@ exercises/*
 !exercises/M00/**
 
 # --- M01  Erweiterte Funktionen ----------------------------------- [TODO]
-#!modules/M01_Erweiterte_Funktionen.md
-#!exercises/M01/
-#!exercises/M01/**
+!modules/M01_Erweiterte_Funktionen.md
+!exercises/M01/
+!exercises/M01/**
 
 # --- M02  Befehl zu Funktion & Module ----------------------------- [TODO]
 #!modules/M02_Befehl_zu_Funktion_und_Module.md
