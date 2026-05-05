@@ -16,9 +16,9 @@ exercises/*
 !exercises/M01/**
 
 # --- M02  Befehl zu Funktion & Module ----------------------------- [TODO]
-#!modules/M02_Befehl_zu_Funktion_und_Module.md
-#!exercises/M02/
-#!exercises/M02/**
+!modules/M02_Befehl_zu_Funktion_und_Module.md
+!exercises/M02/
+!exercises/M02/**
 
 # --- M03  Parameter & Validation ---------------------------------- [TODO]
 #!modules/M03_Parameter_und_Validation.md
