@@ -21,9 +21,9 @@ exercises/*
 !exercises/M02/**
 
 # --- M03  Parameter & Validation ---------------------------------- [TODO]
-#!modules/M03_Parameter_und_Validation.md
-#!exercises/M03/
-#!exercises/M03/**
+!modules/M03_Parameter_und_Validation.md
+!exercises/M03/
+!exercises/M03/**
 
 # --- M04  Pipeline-Input ------------------------------------------ [TODO]
 #!modules/M04_Multiple_Objects_und_Pipeline.md
