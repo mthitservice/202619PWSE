@@ -41,9 +41,9 @@ exercises/*
 !exercises/M06/**
 
 # --- M07  WhatIf / Confirm ---------------------------------------- [TODO]
-#!modules/M07_WhatIf_Confirm.md
-#!exercises/M07/
-#!exercises/M07/**
+!modules/M07_WhatIf_Confirm.md
+!exercises/M07/
+!exercises/M07/**
 
 # --- M08  Controller-Skripte -------------------------------------- [TODO]
 #!modules/M08_Controller_Skripte.md
