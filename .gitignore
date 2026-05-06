@@ -61,9 +61,9 @@ exercises/*
 !exercises/M10/**
 
 # --- M11  Debugging & Analyse ------------------------------------- [TODO]
-#!modules/M11_Debugging_und_Analyse.md
-#!exercises/M11/
-#!exercises/M11/**
+!modules/M11_Debugging_und_Analyse.md
+!exercises/M11/
+!exercises/M11/**
 
 # --- M12  PowerShell Workflow ------------------------------------- [TODO]
 !modules/M12_PowerShell_Workflow.md
