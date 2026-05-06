@@ -46,9 +46,9 @@ exercises/*
 !exercises/M07/**
 
 # --- M08  Controller-Skripte -------------------------------------- [TODO]
-#!modules/M08_Controller_Skripte.md
-#!exercises/M08/
-#!exercises/M08/**
+!modules/M08_Controller_Skripte.md
+!exercises/M08/
+!exercises/M08/**
 
 # --- M09  Fehlerbehandlung ---------------------------------------- [TODO]
 #!modules/M09_Fehlerbehandlung.md
