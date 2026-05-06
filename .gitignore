@@ -66,14 +66,14 @@ exercises/*
 #!exercises/M11/**
 
 # --- M12  PowerShell Workflow ------------------------------------- [TODO]
-#!modules/M12_PowerShell_Workflow.md
-#!exercises/M12/
-#!exercises/M12/**
+!modules/M12_PowerShell_Workflow.md
+!exercises/M12/
+!exercises/M12/**
 
 # --- M13  Just Enough Administration ------------------------------ [TODO]
-#!modules/M13_JEA.md
-#!exercises/M13/
-#!exercises/M13/**
+!modules/M13_JEA.md
+!exercises/M13/
+!exercises/M13/**
 
 
 lab_description.md
