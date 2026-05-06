@@ -51,9 +51,9 @@ exercises/*
 !exercises/M08/**
 
 # --- M09  Fehlerbehandlung ---------------------------------------- [TODO]
-#!modules/M09_Fehlerbehandlung.md
-#!exercises/M09/
-#!exercises/M09/**
+!modules/M09_Fehlerbehandlung.md
+!exercises/M09/
+!exercises/M09/**
 
 # --- M10  XML ----------------------------------------------------- [TODO]
 #!modules/M10_XML_Daten.md
