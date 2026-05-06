@@ -36,9 +36,9 @@ exercises/*
 !exercises/M05/**
 
 # --- M06  Comment-Based Help -------------------------------------- [TODO]
-#!modules/M06_Comment_Based_Help.md
-#!exercises/M06/
-#!exercises/M06/**
+!modules/M06_Comment_Based_Help.md
+!exercises/M06/
+!exercises/M06/**
 
 # --- M07  WhatIf / Confirm ---------------------------------------- [TODO]
 #!modules/M07_WhatIf_Confirm.md
