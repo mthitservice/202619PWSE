@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <servers>
+    <server name="srv01" role="DB"  ip="10.0.0.1"/>
+    <server name="srv02" role="Web" ip="10.0.0.2"/>
+    <server name="srv03" role="DB"  ip="10.0.0.3"/>
+    <server name="srv04" role="App" ip="10.0.0.4"/>
+  </servers>
+</configuration>

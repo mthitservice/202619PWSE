@@ -56,9 +56,9 @@ exercises/*
 !exercises/M09/**
 
 # --- M10  XML ----------------------------------------------------- [TODO]
-#!modules/M10_XML_Daten.md
-#!exercises/M10/
-#!exercises/M10/**
+!modules/M10_XML_Daten.md
+!exercises/M10/
+!exercises/M10/**
 
 # --- M11  Debugging & Analyse ------------------------------------- [TODO]
 #!modules/M11_Debugging_und_Analyse.md
