@@ -31,9 +31,9 @@ exercises/*
 !exercises/M04/**
 
 # --- M05  Komplexer Output ---------------------------------------- [TODO]
-#!modules/M05_Komplexer_Output.md
-#!exercises/M05/
-#!exercises/M05/**
+!modules/M05_Komplexer_Output.md
+!exercises/M05/
+!exercises/M05/**
 
 # --- M06  Comment-Based Help -------------------------------------- [TODO]
 #!modules/M06_Comment_Based_Help.md
